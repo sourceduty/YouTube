@@ -61,5 +61,12 @@ YouTube video views can be considered unverified due to the lack of physical vie
 
 Moreover, the possibility of automated viewership further complicates the accuracy of YouTube's view counts. Automated scripts or bots can be programmed to repeatedly watch videos, artificially inflating view numbers. These robotic views can be used to game the system, boosting a video's apparent popularity without corresponding human engagement. Although YouTube employs algorithms to detect and filter out such fraudulent activities, distinguishing between genuine and fake views remains challenging. The lack of physical verification means that despite these measures, some automated views can still slip through, casting doubt on the authenticity of the view counts​.
 
+#
+### Related Links
+
+[YouTube Video Card](https://github.com/sourceduty/YouTube_Video_Card)
+<br>
+[YouTube Automation](https://github.com/sourceduty/YouTube_Automation)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
