@@ -110,6 +110,8 @@ The use of such exaggerated titles is designed to generate clicks and views, but
 [YouTube Video Card](https://github.com/sourceduty/YouTube_Video_Card)
 <br>
 [YouTube Automation](https://github.com/sourceduty/YouTube_Automation)
+<br>
+[Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
