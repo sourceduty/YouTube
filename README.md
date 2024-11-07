@@ -1,3 +1,6 @@
+HOOT-A-LOOP FUCKIN SHOOP A LOPPPACHOP CRULLA BOP!
+
+
 ![Jimster](https://github.com/user-attachments/assets/74002caf-0e88-49ce-ac2c-52ec19306b77)
 
 #
