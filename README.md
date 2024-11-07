@@ -1,7 +1,3 @@
-FUCK YEAH!
-
-DUHHHHHHHHHHHHHHHHHHHHHHHHHHHHH LANG LUNG CHALO CHALO CAHLO LOP LOP LOP!
-
 ![Jimster](https://github.com/user-attachments/assets/74002caf-0e88-49ce-ac2c-52ec19306b77)
 
 #
